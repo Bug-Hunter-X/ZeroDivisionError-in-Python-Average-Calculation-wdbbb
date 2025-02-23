@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error: ZeroDivisionError. The `bug.py` file contains code that produces this error when an empty list is provided as input. The solution is shown in `bugSolution.py` which properly handles the edge case of an empty input list.
